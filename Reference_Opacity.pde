@@ -1,5 +1,5 @@
 // add your Reference Opacity code here
-oid setup(){
+void setup(){
 
 background(255,255,0);
 
